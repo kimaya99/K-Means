@@ -1,4 +1,4 @@
-# K-Means
+# K-Means Implementation
 Database setup:
 
 1.	 By using pgAdmin GUI application, we can interact with PostgreSQL database server via an intuitive user interface.
